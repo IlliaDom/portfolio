@@ -1,0 +1,11 @@
+Model Information:
+* title:	DraftPunk Coursework - Cyberpunk Car
+* source:	https://sketchfab.com/3d-models/draftpunk-coursework-cyberpunk-car-a6d8bf6728484dcea0054e9235c2bcf0
+* author:	sipabyss (https://sketchfab.com/sipabyss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DraftPunk Coursework - Cyberpunk Car" (https://sketchfab.com/3d-models/draftpunk-coursework-cyberpunk-car-a6d8bf6728484dcea0054e9235c2bcf0) by sipabyss (https://sketchfab.com/sipabyss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
