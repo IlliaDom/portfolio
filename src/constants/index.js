@@ -12,7 +12,6 @@ import {
   tailwind,
   git,
   figma,
-  docker,
   carrent,
   crypton,
   musopen,
@@ -21,6 +20,8 @@ import {
   skudrop,
   zhen,
   michael,
+  nextjs,
+  gatsby,
 } from "../assets";
 
 export const navLinks = [
@@ -100,8 +101,12 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Next JS",
+    icon: nextjs,
+  },
+  {
+    name: "Gatsby",
+    icon: gatsby,
   },
 ];
 
@@ -167,10 +172,10 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Illia optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Michael Fenech",
-    designation: "CTO",
-    company: "456 Enterprises",
+    designation: "E-comm & Start-up entrepreneur",
+    company: null,
     image: michael,
   },
 ];
