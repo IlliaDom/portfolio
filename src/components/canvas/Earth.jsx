@@ -6,7 +6,7 @@ import CanvasLoader from "../Loader";
 import { useSpring } from "framer-motion";
 
 const Earth = () => {
-  const earth = useGLTF("./cyberpunk/scene.gltf");
+  const earth = useGLTF("./cyberpunk/scene.glb");
   const group = useRef();
 
   useFrame((state) => {
