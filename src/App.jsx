@@ -1,27 +1,39 @@
-import { BrowserRouter } from "react-router-dom"
-import {About, Contact, Experience, Feedbacks, Hero, Navbar, StarsCanvas, Tech, Works} from "./components"
+import { BrowserRouter } from "react-router-dom";
+import {
+  About,
+  Contact,
+  Experience,
+  Feedbacks,
+  Hero,
+  Navbar,
+  StarsCanvas,
+  Tech,
+  Works,
+} from "./components";
+import { LoaderBoundary } from "./components/Loader";
 
 function App() {
-
   return (
-      <BrowserRouter>
+    <BrowserRouter>
+      <LoaderBoundary>
         <div className="relative z-0 bg-primary">
           <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
-            <Navbar/>
-            <Hero/>
+            <Navbar />
+            <Hero />
           </div>
-          <About/>
-          <Experience/>
-          <Tech/>
-          <Works/>
-          <Feedbacks/>
+          <About />
+          <Experience />
+          <Tech />
+          <Works />
+          <Feedbacks />
           <div className="relative z-0">
-            <Contact/>
-            <StarsCanvas/>
+            <Contact />
+            <StarsCanvas />
           </div>
         </div>
-      </BrowserRouter>
-  )
+      </LoaderBoundary>
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
