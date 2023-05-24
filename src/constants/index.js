@@ -155,10 +155,18 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
+      "Working with Illia was an absolute dream - not only is he highly skilled in front end web development, but he also has a good eye for design, comes up with innovative ideas and concepts and works super fast! If you have Illia on your team - your project will be first class!",
+    name: "Michael Fenech",
+    designation: "E-comm & Start-up entrepreneur",
+    company: null,
+    image: michael,
+  },
+  {
+    testimonial:
       "Illia is a very talented and productive UI developer. His has high bar for attention to details and quality. Very happy with him.",
     name: "Zhen Chen",
     designation: "Owner",
-    company: "CloudOrder",
+    company: " CloudOrder",
     image: zhen,
   },
   {
@@ -166,17 +174,9 @@ const testimonials = [
       "I enjoyed working with Illia. His communication was top-notch, he met all deadlines, and his skills were reasonably strong. I will likely have additional jobs for him in the future.",
     name: "Eleftherios Filippidis",
     designation: "Manager",
-    company: "Futureaware Tech",
+    company: " Futureaware Tech",
     image:
       "https://www.upwork.com/profile-portraits/c1SI6B0PrG5jAxa9ZqfgdSh0yQEZIiYkIXA-L7cEBPBdwAErHCYsIh4H1zxd7ZPgVe",
-  },
-  {
-    testimonial:
-      "After Illia optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Michael Fenech",
-    designation: "E-comm & Start-up entrepreneur",
-    company: null,
-    image: michael,
   },
 ];
 
